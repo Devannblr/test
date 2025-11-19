@@ -7,7 +7,7 @@
     transform: scale(1.1);
     object-fit: cover; /* Pour que la vidéo recouvre bien toute la surface sans déformation */
     z-index: -1;      /* S'assure que la vidéo est derrière le contenu textuel */
-    backgroud-color: #cc34eb;
+    backgroud-color: #eb34bd;
 }
 #background-image{
     position: fixed !important;  /* Fixe la vidéo à l'écran */
